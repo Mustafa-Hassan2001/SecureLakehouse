@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+spark-warehouse/
+metastore_db/
+derby.log
+# Generated at runtime — lakes, keystores and audit logs are never committed.
+lake/
+state/
+demo_output/
+*.jsonl
+keystore*.json
+app_workspace/
+demo/video/assets.js

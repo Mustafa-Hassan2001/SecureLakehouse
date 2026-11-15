@@ -1,0 +1,13 @@
+employee_id,name,email,department,ssn,salary
+E001,Alice Testperson,alice.testperson@example.com,Engineering,900-11-0001,128000
+E002,Bob Fakename,bob.fakename@example.com,Engineering,900-11-0002,115500
+E003,Carol Sampleton,carol.sampleton@example.com,Finance,900-11-0003,97000
+E004,Dan Placeholder,dan.placeholder@example.com,Sales,900-11-0004,82500
+E005,Eve Fictional,eve.fictional@example.com,HR,900-11-0005,76000
+E006,Frank Mockley,frank.mockley@example.com,Engineering,900-11-0006,134250
+E007,Grace Dummyson,grace.dummyson@example.com,Finance,900-11-0007,101000
+E008,Hank Notreal,hank.notreal@example.com,Sales,900-11-0008,79900
+E009,Ivy Madeup,ivy.madeup@example.com,Engineering,900-11-0009,121750
+E010,Jack Synthetic,jack.synthetic@example.com,Finance,900-11-0010,99500
+E011,Kara Invented,kara.invented@example.com,Sales,900-11-0011,88000
+E012,Liam Pretend,liam.pretend@example.com,HR,900-11-0012,72300

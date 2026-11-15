@@ -1,0 +1,11 @@
+# Core engine
+pyspark>=3.5,<5          # needs a Java runtime (JDK 17 or 21) on PATH / JAVA_HOME
+pyarrow>=14              # used by tests/demo to read Parquet files directly (bypassing the gateway)
+pandas>=2.0,<3           # PySpark 4.x does not yet fully support pandas 3
+cryptography>=42         # Fernet, PBKDF2-HMAC-SHA256
+
+# Optional dashboard
+streamlit>=1.46          # uses st.dataframe(width="stretch")
+
+# Tests
+pytest>=7
